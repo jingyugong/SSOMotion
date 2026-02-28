@@ -1,0 +1,1 @@
+python -m python_scripts.train_scripts.train_mdm --controlnet --dataset mixedscenemotion --save_dir save/trained_models/cmdm_action2motion_qkv --cond_mask_prob 0 --lambda_vel 1 --num_frames 30 --num_steps 400000 --batch_size 64 --resume_checkpoint ./save/trained_models/mdm_action2motion/model000609390.pt --lr 1e-5 --overwrite

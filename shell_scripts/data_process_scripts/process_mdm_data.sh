@@ -1,0 +1,1 @@
+python -m python_scripts.data_preprocess.process_raw_smplxg_data

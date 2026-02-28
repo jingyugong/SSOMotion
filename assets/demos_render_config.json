@@ -1,0 +1,500 @@
+{
+    "BasementSittingBooth+sit-sofa_walk+0":
+    {
+        "light": [-1, -2, 5],
+        "cam_xyz": [-1.5, -5, 3],
+        "cam_xyz_rot": [60, 0, -25]
+    },
+    "MPH112+walk_sit-bed+0":
+    {
+        "light": [2.5, -2.5, 5],
+        "cam_xyz": [3.3, -4.5, 3.3],
+        "cam_xyz_rot": [60, 0, 34]
+    },
+    "MPH11+walk_sit-sofa+0":
+    {
+        "light": [-2, -2, 5],
+        "cam_xyz": [-4, -3, 3],
+        "cam_xyz_rot": [60, 0, -60]
+    },
+    "MPH11+walk_sit-sofa_lie-sofa+0":
+    {
+        "light": [-2, -2, 5],
+        "cam_xyz": [-4, -3, 3],
+        "cam_xyz_rot": [60, 0, -60]
+    },
+    "MPH16+walk+0":
+    {
+        "light": [2.5, 0, 5],
+        "cam_xyz": [5, 0, 3],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "MPH16+walk_sit-bed+0":
+    {
+        "light": [2.5, 0, 5],
+        "cam_xyz": [5, 0, 3],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "MPH16+walk_sit-chair+0":
+    {
+        "light": [2.5, 0, 5],
+        "cam_xyz": [5, 0, 3],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "MPH16+sit-bed_walk_sit-chair+0":
+    {
+        "light": [2.5, 0, 5],
+        "cam_xyz": [5, 0, 3],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "MPH1Library+walk+0":
+    {
+        "light": [0, -5, 5],
+        "cam_xyz": [1.1, -5.7, 3.3],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "MPH8+walk_sit-bed+0":
+    {
+        "light": [0, -2, 5],
+        "cam_xyz": [0, -6, 3.5],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "MPH8+walk_sit-bed_lie-bed+0":
+    {
+        "light": [0, -2, 5],
+        "cam_xyz": [-2, -6, 3.7],
+        "cam_xyz_rot": [60, 0, -20]
+    },
+    "N0Sofa+walk_sit-sofa_walk+0":
+    {
+        "light": [-4, -2, 5],
+        "cam_xyz": [-1.1, -7, 4],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "N3Library+walk_sit-chair+0":
+    {
+        "light": [-4, -3, 5],
+        "cam_xyz": [-4.8, -2.5, 3],
+        "cam_xyz_rot": [60, 0, -70]
+    },
+    "N3Office+sit-chair_walk+0":
+    {
+        "light": [-1, -4, 5],
+        "cam_xyz": [-1.9, -5.3, 3],
+        "cam_xyz_rot": [60, 0, -22]
+    },
+    "N3OpenArea+sit-sofa_walk_sit-chair+0":
+    {
+        "light": [1, -4, 5],
+        "cam_xyz": [1, -6.5, 3],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "N3OpenArea+lie-sofa_sit-sofa_walk_sit-chair+0":
+    {
+        "light": [1, -4, 5],
+        "cam_xyz": [2, -6.5, 3],
+        "cam_xyz_rot": [60, 0, 15]
+    },
+    "Werkraum+walk_sit-chair_walk+0":
+    {
+        "light": [2, -3, 5],
+        "cam_xyz": [3.8, -2.6, 3],
+        "cam_xyz_rot": [60, 0, 55]
+    },
+    "hotel_0+sit-bed_sit-chair+0":
+    {
+        "light": [2, 0, 4],
+        "cam_xyz": [4, 0.6, 2.7],
+        "cam_xyz_rot": [60, 0, 85]
+    },
+    "hotel_0+sit-bed_sit-chair+1":
+    {
+        "light": [2, 0, 4],
+        "cam_xyz": [4, 0.6, 2.7],
+        "cam_xyz_rot": [60, 0, 85]
+    },
+    "office_0+sit-chair_sit-sofa+0":
+    {
+        "light": [0, 0, 4],
+        "cam_xyz": [-0.5, 3, 4],
+        "cam_xyz_rot": [45, 0, -175]
+    },
+    "office_0+sit-chair_walk_sit-sofa+0":
+    {
+        "light": [0, 0, 4],
+        "cam_xyz": [-2.6, 1.6, 3.6],
+        "cam_xyz_rot": [45, 0, -125]
+    },
+    "office_0+sit-sofa_walk_sit-chair+0":
+    {
+        "light": [0, -3, 4],
+        "cam_xyz": [0.4, -5.2, 4.8],
+        "cam_xyz_rot": [45, 0, 5]
+    },
+    "office_0+sit-sofa_walk_sit-sofa+0":
+    {
+        "light": [0, -3, 4],
+        "cam_xyz": [0.4, -5.2, 4.8],
+        "cam_xyz_rot": [45, 0, 5]
+    },
+    "office_1+sit-chair_walk+0":
+    {
+        "light": [0, 0, 4],
+        "cam_xyz": [-1, -1, 3],
+        "cam_xyz_rot": [45, 0, -50]
+    },
+    "office_2+sit-chair_walk+0":
+    {
+        "light": [-1, 0, 4],
+        "cam_xyz": [-2.4, -2.3, 3.8],
+        "cam_xyz_rot": [55, 0, -30]
+    },
+    "office_2+walk_sit-chair+0":
+    {
+        "light": [-1, 0, 4],
+        "cam_xyz": [-2.5, -2.4, 3.8],
+        "cam_xyz_rot": [55, 0, -30]
+    },
+    "office_2+walk_sit-chair+1":
+    {
+        "light": [-1, 0, 4],
+        "cam_xyz": [-2.5, -2.4, 3.8],
+        "cam_xyz_rot": [55, 0, -30]
+    },
+    "office_3+walk_sit-sofa+0":
+    {
+        "light": [-3, -3, 4],
+        "cam_xyz": [-4.5, -5.7, 4.2],
+        "cam_xyz_rot": [55, 0, -40]
+    },
+    "office_4+sit-chair_walk+0":
+    {
+        "light": [3, -1.9, 4],
+        "cam_xyz": [4.8, -3.1, 6],
+        "cam_xyz_rot": [40, 0, 40]
+    },
+    "room_0+sit-chair_sit-sofa+0":
+    {
+        "light": [5, 2, 4],
+        "cam_xyz": [4.3, 4.4, 4],
+        "cam_xyz_rot": [45, 0, -180]
+    },
+    "room_0+sit-sofa_sit-stool+0":
+    {
+        "light": [4, 0, 4],
+        "cam_xyz": [3.5, -2.5, 4],
+        "cam_xyz_rot": [45, 0, 0]
+    },
+    "room_0+sit-stool_sit-sofa_lie-sofa+0":
+    {
+        "light": [6, 0, 4],
+        "cam_xyz": [3.5, -2.5, 4],
+        "cam_xyz_rot": [45, 0, 0]
+    },
+    "room_0+sit-stool_sit-sofa+0":
+    {
+        "light": [3, 3, 4],
+        "cam_xyz": [3, 5.3, 4],
+        "cam_xyz_rot": [45, 0, -180]
+    },
+    "room_0+sit-stool_sit-sofa_lie-sofa+1":
+    {
+        "light": [3, 3, 4],
+        "cam_xyz": [3, 5.3, 4],
+        "cam_xyz_rot": [45, 0, -180]
+    },
+    "room_1+walk_sit-bed+0":
+    {
+        "light": [0, 0, 4],
+        "cam_xyz": [-1.6, 3, 4],
+        "cam_xyz_rot": [45, 0, -180]
+    },
+    "5.33_5.94_2_1677228749.1353848+walk+1":
+    {
+        "light": [4, 0, 5],
+        "cam_xyz": [5.5, 0.8, 4.5],
+        "cam_xyz_rot": [45, 0, 90]
+    },
+    "5.33_5.94_2_1677228749.1353848+walk+2":
+    {
+        "light": [3, 3, 5],
+        "cam_xyz": [4.5, 4.5, 3.5],
+        "cam_xyz_rot": [60, 0, 135]
+    },
+    "5.33_5.94_2_1677228749.1353848+walk+5":
+    {
+        "light": [1.3, -3.8, 7.0],
+        "cam_xyz": [0.7, -6, 5],
+        "cam_xyz_rot": [45, 0, 0]
+    },
+    "5.33_5.94_2_1677228749.1353848+walk+8":
+    {
+        "light": [4, 0, 5],
+        "cam_xyz": [5.5, 1, 5],
+        "cam_xyz_rot": [45, 0, 105]
+    },
+    "5.33_5.94_2_1677228749.1353848+walk+9":
+    {
+        "light": [4, -6, 5],
+        "cam_xyz": [0.8, -7.5, 4.3],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "5.54_5.34_0_1677228775.5952885+walk+0":
+    {
+        "light": [-1.8, 0.7, 5],
+        "cam_xyz": [-0.9, 1.5, 8.5],
+        "cam_xyz_rot": [0, 0, 120]
+    },
+    "5.54_5.34_0_1677228775.5952885+walk+1":
+    {
+        "light": [3, 5, 5],
+        "cam_xyz": [3, 5.5, 3.5],
+        "cam_xyz_rot": [60, 0, 135]
+    },
+    "5.54_5.34_0_1677228775.5952885+walk+5":
+    {
+        "light": [-1.5, 1.5, 5],
+        "cam_xyz": [-3.7, -0.7, 5],
+        "cam_xyz_rot": [45, 0, -45]
+    },
+    "5.54_5.34_0_1677228775.5952885+walk+7":
+    {
+        "light": [-2, 1.5, 5],
+        "cam_xyz": [-8.5, 1.2, 4],
+        "cam_xyz_rot": [60, 0, -90]
+    },
+    "5.54_5.34_0_1677228775.5952885+walk+9":
+    {
+        "light": [-1, 1, 5],
+        "cam_xyz": [-1.1, 0.8, 8],
+        "cam_xyz_rot": [0, 0, 75]
+    },
+    "5.76_8.87_1_1677228764.1464393+walk+1":
+    {
+        "light": [3, 1, 5],
+        "cam_xyz": [6.9, 1.2, 4],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "5.76_8.87_1_1677228764.1464393+walk+2":
+    {
+        "light": [3, -0.5, 5],
+        "cam_xyz": [7, -1, 4.5],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "5.76_8.87_1_1677228764.1464393+walk+4":
+    {
+        "light": [3, 0, 5],
+        "cam_xyz": [5, -0.5, 4.8],
+        "cam_xyz_rot": [45, 0, 90]
+    },
+    "5.97_6.83_1_1677228757.1440427+walk+3":
+    {
+        "light": [1, 1.5, 5],
+        "cam_xyz": [1.5, 1, 9],
+        "cam_xyz_rot": [0, 0, 120]
+    },
+    "5.97_6.83_1_1677228757.1440427+walk+4":
+    {
+        "light": [0, 0, 5],
+        "cam_xyz": [-1.1, 1.3, 4.9],
+        "cam_xyz_rot": [45, 0, -135]
+    },
+    "5.97_6.83_1_1677228757.1440427+walk+6":
+    {
+        "light": [-1, 0, 5],
+        "cam_xyz": [1, -3.5, 6],
+        "cam_xyz_rot": [45, 0, 0]
+    },
+    "5.97_6.83_1_1677228757.1440427+walk+7":
+    {
+        "light": [-1, -4, 5],
+        "cam_xyz": [-0.5, -5, 5],
+        "cam_xyz_rot": [45, 0, 0]
+    },
+    "5.97_6.83_1_1677228757.1440427+walk+8":
+    {
+        "light": [-3, 3, 5],
+        "cam_xyz": [-5.5, 5, 5.5],
+        "cam_xyz_rot": [60, 0, 225]
+    },
+    "6.27_4.97_0_1677228807.6371164+walk+1":
+    {
+        "light": [-5, 0, 5],
+        "cam_xyz": [-8, 0.7, 6.5],
+        "cam_xyz_rot": [45, 0, -90]
+    },
+    "6.27_4.97_0_1677228807.6371164+walk+2":
+    {
+        "light": [4, 0, 5],
+        "cam_xyz": [5, 0.5, 5],
+        "cam_xyz_rot": [45, 0, 90]
+    },
+    "6.27_4.97_0_1677228807.6371164+walk+4":
+    {
+        "light": [-1, 0, 5],
+        "cam_xyz": [-4.3, 1.8, 5.5],
+        "cam_xyz_rot": [45, 0, -110]
+    },
+    "6.27_4.97_0_1677228807.6371164+walk+5":
+    {
+        "light": [-1, 0, 5],
+        "cam_xyz": [-4, 1.7, 5.5],
+        "cam_xyz_rot": [45, 0, -110]
+    },
+    "6.27_4.97_0_1677228807.6371164+walk+9":
+    {
+        "light": [-1, -3, 5],
+        "cam_xyz": [0, -6.5, 4.5],
+        "cam_xyz_rot": [60, 0, 0]
+    },
+    "Armchairs_9faefdf6814aaa975510d59f3ab1ed64+sit+00":
+    {
+        "light": [-3, 2, 5],
+        "cam_xyz": [-3, 4, 3.5],
+        "cam_xyz_rot": [60, 0, 225]
+    },
+    "Armchairs_9faefdf6814aaa975510d59f3ab1ed64+sit+20":
+    {
+        "light": [2, 1, 5],
+        "cam_xyz": [3.5, 2.5, 3],
+        "cam_xyz_rot": [60, 0, 120]
+    },
+    "Armchairs_cacb9133bc0ef01f7628281ecb18112+sit+00":
+    {
+        "light": [-2.6, 2.1, 5],
+        "cam_xyz": [-3, 2.2, 4.2],
+        "cam_xyz_rot": [45, 0, -115]
+    },
+    "Armchairs_ea918174759a2079e83221ad0d21775+sit+00":
+    {
+        "light": [3, 0, 5],
+        "cam_xyz": [4.4, 0, 3.2],
+        "cam_xyz_rot": [60, 0, 90]
+    },
+    "L-Sofas_5cea034b028af000c2843529921f9ad7+sit+00":
+    {
+        "light": [-1, 2, 5],
+        "cam_xyz": [-2.5, 4, 3.5],
+        "cam_xyz_rot": [60, 0, -135]
+    },
+    "L-Sofas_5cea034b028af000c2843529921f9ad7+sit+10":
+    {
+        "light": [4, 3, 5],
+        "cam_xyz": [5, 3, 3.5],
+        "cam_xyz_rot": [60, 0, 120]
+    },
+    "Sofas_1dd6e32097b09cd6da5dde4c9576b854+sit+00":
+    {
+        "light": [3, 1, 5],
+        "cam_xyz": [4, 3, 3.2],
+        "cam_xyz_rot": [60, 0, 120]
+    },
+    "Sofas_1dd6e32097b09cd6da5dde4c9576b854+sit+10":
+    {
+        "light": [3, 1, 5],
+        "cam_xyz": [4, 3, 3.2],
+        "cam_xyz_rot": [60, 0, 120]
+    },
+    "Sofas_277231dcb7261ae4a9fe1734a6086750+sit+10":
+    {
+        "light": [1, 1, 5],
+        "cam_xyz": [4, 3.5, 3.5],
+        "cam_xyz_rot": [60, 0, 125]
+    },
+    "Sofas_277231dcb7261ae4a9fe1734a6086750+sit+20":
+    {
+        "light": [-2, 1, 5],
+        "cam_xyz": [-4, 3, 3.5],
+        "cam_xyz_rot": [60, 0, -120]
+    },
+    "Sofas_277231dcb7261ae4a9fe1734a6086750+sit+30":
+    {
+        "light": [3, 3, 5],
+        "cam_xyz": [4, 3.5, 3.5],
+        "cam_xyz_rot": [60, 0, 125]
+    },
+    "Sofas_71fd7103997614db490ad276cd2af3a4+sit+00":
+    {
+        "light": [3, 3, 5],
+        "cam_xyz": [4, 3.5, 3.5],
+        "cam_xyz_rot": [60, 0, 125]
+    },
+    "StraightChairs_68dc37f167347d73ea46bea76c64cc3d+sit+00":
+    {
+        "light": [-1, 1, 5],
+        "cam_xyz": [-3.5, 2.5, 3.5],
+        "cam_xyz_rot": [60, 0, -120]
+    },
+    "StraightChairs_d93760fda8d73aaece101336817a135f+sit+10":
+    {
+        "light": [-1, 1, 5],
+        "cam_xyz": [-3.5, 2.5, 3.5],
+        "cam_xyz_rot": [60, 0, -120]
+    },
+    "StraightChairs_d93760fda8d73aaece101336817a135f+sit+20":
+    {
+        "light": [-1, 1, 5],
+        "cam_xyz": [-3.5, 2.5, 3.5],
+        "cam_xyz_rot": [60, 0, -120]
+    },
+    "L-Sofas_5cea034b028af000c2843529921f9ad7+lie+00":
+    {
+        "light": [2, -1, 5],
+        "cam_xyz": [3, -2.5, 3.5],
+        "cam_xyz_rot": [60, 0, 45]
+    },
+    "L-Sofas_5cea034b028af000c2843529921f9ad7+lie+10":
+    {
+        "light": [2, -1, 5],
+        "cam_xyz": [3, -2.5, 3.2],
+        "cam_xyz_rot": [60, 0, 45]
+    },
+    "L-Sofas_5cea034b028af000c2843529921f9ad7+lie+50":
+    {
+        "light": [3, 0, 5],
+        "cam_xyz": [4.5, -0.5, 3.2],
+        "cam_xyz_rot": [60, 0, 75]
+    },
+    "Sofas_1dd6e32097b09cd6da5dde4c9576b854+lie+00":
+    {
+        "light": [3, -1, 5],
+        "cam_xyz": [4.5, -1, 3.5],
+        "cam_xyz_rot": [60, 0, 70]
+    },
+    "Sofas_1dd6e32097b09cd6da5dde4c9576b854+lie+30":
+    {
+        "light": [-3, 3, 5],
+        "cam_xyz": [-3, 4.8, 3.5],
+        "cam_xyz_rot": [60, 0, 210]
+    },
+    "Sofas_1dd6e32097b09cd6da5dde4c9576b854+lie+40":
+    {
+        "light": [-3, 3, 5],
+        "cam_xyz": [-3, 4.8, 3.5],
+        "cam_xyz_rot": [60, 0, 210]
+    },
+    "Sofas_277231dcb7261ae4a9fe1734a6086750+lie+10":
+    {
+        "light": [-3, 3.5, 5],
+        "cam_xyz": [-2.4, 4.5, 3.5],
+        "cam_xyz_rot": [60, 0, 210]
+    },
+    "Sofas_71fd7103997614db490ad276cd2af3a4+lie+00":
+    {
+        "light": [-3, 3.5, 5],
+        "cam_xyz": [-3.2, 4.2, 3.5],
+        "cam_xyz_rot": [60, 0, 225]
+    },
+    "Sofas_71fd7103997614db490ad276cd2af3a4+lie+10":
+    {
+        "light": [-3, 3.5, 5],
+        "cam_xyz": [-3.2, 4.2, 3.5],
+        "cam_xyz_rot": [60, 0, 225]
+    },
+    "Sofas_71fd7103997614db490ad276cd2af3a4+lie+30":
+    {
+        "light": [3, -3.5, 5],
+        "cam_xyz": [3.2, -2.8, 3.5],
+        "cam_xyz_rot": [60, 0, 45]
+    }
+}
